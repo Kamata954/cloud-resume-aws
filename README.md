@@ -3,7 +3,7 @@ My professional resume hosted in the AWS cloud using various AWS technologies an
 
 **Link to project:** https://kimaniwalker.com/
 
-![](https://imgur.com/a/EeeYnNI)
+![](https://i.imgur.com/jPu2jqP.png)
 
 ## How It's Made:
 
