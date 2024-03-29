@@ -4,6 +4,7 @@ My professional resume hosted in the AWS cloud using various AWS technologies an
 **Link to project:** https://kimaniwalker.com/
 
 ![](https://i.imgur.com/jPu2jqP.png)
+![](https://i.imgur.com/btiIZYC.png)
 
 ## How It's Made:
 
