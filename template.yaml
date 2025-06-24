@@ -38,7 +38,7 @@ Resources:
   MyRoute53Record:
     Type: "AWS::Route53::RecordSetGroup"
     Properties:
-      HostedZoneId: Z0084087244NGVXNAD0UF
+      HostedZoneId: Z01603361KXVNZCKT0079
       RecordSets:
         - Name: kimaniwalker.com
           Type: A
